@@ -1,0 +1,20 @@
+//Kevin Lee
+//Cal Poly Pomona: CS 331 Project Output
+
+first case:
+
+Probabilities: [0.0, 0.375, 0.375, 0.125, 0.125, 0.0]
+Result: 1.75
+Tree in preorder: isabelle (don () ralph (wally () ) ) 
+
+second case:
+
+Probabilities: [0.0, 0.1, 0.2, 0.4, 0.3, 0.0]
+Result: 1.4
+Tree in preorder: C (B (A () ) D () ) 
+
+third case:
+
+Probabilities: [0.0, 0.142857, 0.142857, 0.142857, 0.142857, 0.142857, 0.142857, 0.142857, 0.0]
+Result: 1.7142840000000001
+Tree in preorder: D (B (A () C () ) F (E () G () ) ) 
